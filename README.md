@@ -15,10 +15,10 @@ Atualmente estou cursando Engenharia de Software e estudo por através de cursos
 <br/>
   
 
-- 🌱 I’m currently learning Java and Spring  
+- 🌱 Atualmente estou aprendendo Java e Spring
   
 
-- ⚡ Fun fact: Dark theme all times  
+- ⚡ Curiosidade: Tema branco é igual uma flashbang  
  
 
 <br/>  
