@@ -9,8 +9,8 @@
 
 ### Fico feliz por você estar aqui!
 
-Estudo sobre programação a 6 meses, como foco em desenvolvimento backend.
-Atualmente estou cursando Engenharia de Software e estudo por através de cursos na Udemy.  
+Estudo sobre programação a 6 meses, com foco em desenvolvimento backend.
+Atualmente estou cursando Engenharia de Software e estudo através de cursos na Udemy.  
 
 <br/>
   
