@@ -53,18 +53,3 @@ Atualmente estou cursando Engenharia de Software e estudo através de cursos na 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua3045&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Kaua3045&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
