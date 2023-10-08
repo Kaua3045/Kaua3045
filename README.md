@@ -12,18 +12,6 @@
 Estudo sobre programação a 6 meses, com foco em desenvolvimento backend.
 Atualmente estou cursando Engenharia de Software e estudo através de cursos na Udemy.  
 
-<br/>
-  
-
-- 🌱 Atualmente estou aprendendo Java e Spring
-  
-
-- ⚡ Curiosidade: Tema branco é igual uma flashbang  
- 
-
-<br/>  
-
-
 ## Linguagens e Ferramentas
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
