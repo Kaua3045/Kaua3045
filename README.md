@@ -27,7 +27,8 @@ Atualmente estou cursando Engenharia de Software e estudo através de cursos na 
 <img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
 
 **Outros**
-[![My Skills](https://skillicons.dev/icons?i=postman,insomnia,idea,vscode,linux,bash)]()
+
+[![My Skills](https://skillicons.dev/icons?i=postman,idea,vscode,linux,bash)]()
 
 ## Conhecimentos independentes de tecnologia
 - Clean Architecture
