@@ -9,7 +9,7 @@
 
 ### Fico feliz por você estar aqui!
 
-Estudo sobre programação a 2 ano, com foco em desenvolvimento backend.
+Desenvolvedor com foco em desenvolvimento backend.
 Atualmente estou cursando Engenharia de Software e estudo através de cursos na Udemy.  
 
 **BackEnd**
